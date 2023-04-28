@@ -1,0 +1,575 @@
+- equipment_id: 1
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 1
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 1
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 1
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 1
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 1
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 1
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 1
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 1
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 1
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 1
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 1
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 1
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 1
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 1
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 1
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 2
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 2
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 2
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 2
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 2
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 2
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 2
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 2
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 2
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 2
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 2
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 2
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 2
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 2
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 2
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 2
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 3
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 3
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 3
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 3
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 3
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 3
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 3
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 3
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8355
+  current_corr_pvm_lower_caution: 0.8826
+  current_noise_rms_upper_warning: 1.3235
+  current_noise_rms_upper_caution: 1.0359
+  current_noise_rms_lower_warning: 0.0147
+  current_noise_rms_lower_caution: 0.0294
+
+- equipment_id: 3
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.6663
+  current_corr_pvm_lower_caution: 0.7393
+  current_noise_rms_upper_warning: 0.2563
+  current_noise_rms_upper_caution: 0.2425
+  current_noise_rms_lower_warning: 0.1804
+  current_noise_rms_lower_caution: 0.1942
+
+- equipment_id: 3
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.8881
+  current_corr_pvm_lower_caution: 0.8425
+  current_noise_rms_upper_warning: 1.2755
+  current_noise_rms_upper_caution: 1.0389
+  current_noise_rms_lower_warning: 0.1053
+  current_noise_rms_lower_caution: 0.2105
+
+- equipment_id: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.7503
+  current_corr_pvm_lower_caution: 0.6419
+  current_noise_rms_upper_warning: 0.2419
+  current_noise_rms_upper_caution: 0.2309
+  current_noise_rms_lower_warning: 0.1815
+  current_noise_rms_lower_caution: 0.1925
+
+- equipment_id: 3
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 1.67
+  current_noise_rms_upper_caution: 1.23
+  current_noise_rms_lower_warning: 0.05
+  current_noise_rms_lower_caution: 0.1
+
+- equipment_id: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0.4
+  current_corr_pvm_lower_caution: 0.6
+  current_noise_rms_upper_warning: 0.1947
+  current_noise_rms_upper_caution: 0.1848
+  current_noise_rms_lower_warning: 0.1281
+  current_noise_rms_lower_caution: 0.1407
+
+- equipment_id: 3
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0
+
+- equipment_id: 3
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  phase_number: 3
+  plc: 4
+  current_corr_pvm_lower_warning: 0
+  current_corr_pvm_lower_caution: 0.0001
+  current_noise_rms_upper_warning: 1
+  current_noise_rms_upper_caution: 0.999
+  current_noise_rms_lower_warning: 0
+  current_noise_rms_lower_caution: 0

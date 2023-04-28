@@ -1,0 +1,96 @@
+- equipment_id: 1
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_1A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_2A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_3A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_1B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_2B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_1_3B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_1A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_2A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 9
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_3A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 10
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_1B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 11
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_2B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 12
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_2_3B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 13
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_1A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 14
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_2A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 15
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_3A_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 16
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_1B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 17
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_2B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 18
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_CST_3_3B_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 19
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_SCT_STACKED_CELL_TRANSFER_SVM_Y1"
+- equipment_id: 1
+  number: 20
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_SCT_STACKED_CELL_TRANSFER_SVM_Y2"
+- equipment_id: 1
+  number: 21
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_SCT_STACKED_CELL_TRANSFER_SVM_X"
+- equipment_id: 1
+  number: 22
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_STK_SCT_STACKED_CELL_GRIPPER_SVM_Z"
+- equipment_id: 1
+  number: 23
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_TAP_LMS_SHUTTLE_OUT_LIFT_SVM_Z"
+- equipment_id: 1
+  number: 24
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LNS_26_3_TAP_LMS_SHUTTLE_IN_LIFT_SVM_Z"

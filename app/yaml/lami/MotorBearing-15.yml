@@ -1,0 +1,310 @@
+- equipment_id: 1
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 1
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 1
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 1
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 1
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 1
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 1
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 1
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 2
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 2
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 2
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 3
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 3
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 3
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 3
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 4
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+- equipment_id: 4
+  motor_number: 6
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 57.2
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 7
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 50
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 3
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3
+
+- equipment_id: 4
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  plc: 4
+  supply_freq: 53.8
+  moving_median_sample_number: 100
+  motor_bearing_ball_diameter: 1
+  motor_bearing_pitch_diameter: 2
+  motor_bearing_ball_number: 3

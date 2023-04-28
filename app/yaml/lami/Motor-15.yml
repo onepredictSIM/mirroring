@@ -1,0 +1,335 @@
+- equipment_id: 1
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_ESC_CenterElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 1
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_ESC_CenterElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 1
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_ESC_UpperElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 1
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_ESC_UpperElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 1
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_LAM_UpperLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 1
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_LAM_LowerLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 1
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_CFC_UncutCellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 1
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_CFC_CellCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 1
+  number: 9
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_CFC_CellCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 1
+  number: 10
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_1_LAM_CFC_CellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 2
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_ESC_CenterElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 2
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_ESC_CenterElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 2
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_ESC_UpperElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 2
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_ESC_UpperElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 2
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_LAM_UpperLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 2
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_LAM_LowerLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 2
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_CFC_UncutCellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 2
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_CFC_CellCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 2
+  number: 9
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_CFC_CellCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 2
+  number: 10
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_2_LAM_CFC_CellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 3
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_ESC_CenterElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 3
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_ESC_CenterElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 3
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_ESC_UpperElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 3
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_ESC_UpperElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 3
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_LAM_UpperLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 3
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_LAM_LowerLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 3
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_CFC_UncutCellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 3
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_CFC_CellCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 3
+  number: 9
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_CFC_CellCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 3
+  number: 10
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_3_LAM_CFC_CellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 4
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_ESC_CenterElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 4
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_ESC_CenterElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 4
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_ESC_UpperElectrodeCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 4
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_ESC_UpperElectrodeCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 4
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_LAM_UpperLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 4
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_LAM_LowerLaminationRoller_SVM_Axis_X"
+  category: "u3e"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 25
+
+- equipment_id: 4
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_CFC_UncutCellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5
+
+- equipment_id: 4
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_CFC_CellCuttingLinear_SVM_Axis_X"
+  category: "v3"
+  rated_current: 20
+  max_current: 48
+
+- equipment_id: 4
+  number: 9
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_CFC_CellCutter_SVM_Axis_Z"
+  category: "v3"
+  rated_current: 4.9
+  max_current: 17.2
+
+- equipment_id: 4
+  number: 10
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_LAM_15_4_LAM_CFC_CellConveyor_SVM_Axis_X"
+  category: "u3t"
+  rated_current: 9.4
+  pole: 10
+  gear_ratio: 5

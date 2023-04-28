@@ -1,0 +1,509 @@
+- equipment_id: 1
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 8
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 9
+  acq_time: "2022-10-06 12:00:00"
+  plc: 3
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 8
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 1
+  motor_number: 9
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 8
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 2
+  motor_number: 9
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 8
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 3
+  motor_number: 9
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 8
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0
+
+- equipment_id: 4
+  motor_number: 9
+  acq_time: "2022-10-06 12:00:00"
+  plc: 4
+  avg_load: 2
+  peak_load: 2.5
+  avg_load_ratio: 2
+  peak_load_ratio: 2.5
+  cutting_interval: 3.5
+  current_corr_pvm: 0.8
+  current_corr_pvm_median: 0
+  current_noise_rms_pvm: 1.1
+  current_noise_rms_pvm_median: 0
+  current_corr_pvm_diagnosis: 0
+  current_noise_rms_pvm_diagnosis: 0
+  final_diagnosis: 0

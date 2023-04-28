@@ -1,0 +1,47 @@
+- line_id: 1
+  equipment_id: 1
+  model: 3
+  name: "mono-cell"
+  description: "mono-cell"
+
+- line_id: 1
+  equipment_id: 1
+  model: 4
+  name: "half-cell"
+  description: "half-cell"
+
+- line_id: 1
+  equipment_id: 2
+  model: 3
+  name: "mono-cell"
+  description: "mono-cell"
+
+- line_id: 1
+  equipment_id: 2
+  model: 4
+  name: "half-cell"
+  description: "half-cell"
+
+- line_id: 1
+  equipment_id: 3
+  model: 3
+  name: "mono-cell"
+  description: "mono-cell"
+
+- line_id: 1
+  equipment_id: 3
+  model: 4
+  name: "half-cell"
+  description: "half-cell"
+
+- line_id: 1
+  equipment_id: 4
+  model: 3
+  name: "mono-cell"
+  description: "mono-cell"
+
+- line_id: 1
+  equipment_id: 4
+  model: 4
+  name: "half-cell"
+  description: "half-cell"

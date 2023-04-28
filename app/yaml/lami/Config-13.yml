@@ -1,0 +1,13 @@
+- host: "tcp://10.10.30.17:55554"
+  vpn: "default"
+  topic: "PRD/LGES/KR/OC/FDC/OC1/M1ALNS301"
+  user_name: "admin"
+  password: "admin"
+  client_name: "onepredict_lami"
+  connect_attempts: 3
+  reconnect_attempts: 20
+  reconnect_interval: 1000
+  connect_retries_per_host: 5
+  message_interval: 30
+  sheet_path: "./sheet.csv"
+  featuredb_uri: "postgresql://guardione:onepredict1!@10.10.20.24:5432/LGES_feature"

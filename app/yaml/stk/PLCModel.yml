@@ -1,0 +1,11 @@
+- line_id: 1
+  equipment_id: 1
+  model: 1
+  name: "mono-cell"
+  description: "momo"
+
+- line_id: 1
+  equipment_id: 1
+  model: 2
+  name: "half-cell"
+  description: "haha"

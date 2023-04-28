@@ -1,0 +1,15 @@
+- timestamp: "2022-12-13 12:00:00"
+  mm_id: 1
+  value: "3"
+
+- timestamp: "2022-12-13 12:00:00"
+  mm_id: 32
+  value: "3"
+
+- timestamp: "2022-12-13 12:00:00"
+  mm_id: 63
+  value: "3"
+
+- timestamp: "2022-12-13 12:00:00"
+  mm_id: 94
+  value: "3"

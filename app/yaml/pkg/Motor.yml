@@ -1,0 +1,32 @@
+- equipment_id: 1
+  number: 1
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_CA_CelAsy_APouchPreSealer_Upper_SVM_Z"
+- equipment_id: 1
+  number: 2
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_CA_CelAsy_BPouchPreSealer_Upper_SVM_Z"
+- equipment_id: 1
+  number: 3
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_CA_CelAsy_APouchSealer_Upper_SVM_Z"
+- equipment_id: 1
+  number: 4
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_CA_CelAsy_BPouchSealer_Upper_SVM_Z"
+- equipment_id: 1
+  number: 5
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_CA_AlForm_AlSheetFormingPress_SVM_Z"
+- equipment_id: 1
+  number: 6
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_TW_TabWld_01CarrierLift_SVM_Z"
+- equipment_id: 1
+  number: 7
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_EL_ELFill_BCarrierShuttle_SVM_X"
+- equipment_id: 1
+  number: 8
+  updated_time: "2022-10-06 12:00:00"
+  name: "ESWA_Auto_A_PKG_15_1_EL_ELFill_01BCarrierLift_SVM_Z"

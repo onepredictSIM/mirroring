@@ -1,0 +1,53 @@
+- equipment_id: 1
+  motor_number: 1
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 11.1
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1
+
+- equipment_id: 1
+  motor_number: 2
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 22.2
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1
+
+- equipment_id: 1
+  motor_number: 3
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 22.2
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1
+
+- equipment_id: 1
+  motor_number: 4
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 22.2
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1
+
+- equipment_id: 1
+  motor_number: 5
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 22.2
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1
+
+- equipment_id: 1
+  motor_number: 6
+  acq_time: "2022-10-06 12:00:00"
+  supply_freq_by_data: 22.2
+  plc: 3
+  status: 100
+  plc_status: 300
+  rms_u: 1.1

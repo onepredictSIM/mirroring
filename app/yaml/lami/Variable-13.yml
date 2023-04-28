@@ -1,0 +1,335 @@
+- equipment_id: 1
+  plc: 3
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 1
+  plc: 3
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 1
+  plc: 4
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 3
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 2
+  plc: 4
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 3
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 1
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor1_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 2
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor2_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 4
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor5_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 5
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor6_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 9
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor11_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 10
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 12
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
+
+- equipment_id: 3
+  plc: 4
+  motor_number: 13
+  updated_time: "2022-10-06 12:00:00"
+  moving_median_sample_number: 100
+  template: "./lami_templates/motor15_uvw.npy"
