@@ -3,7 +3,7 @@ RUN apt-get update && apt-get install -y curl vim --no-install-recommends
 RUN apt-get clean
 RUN curl -sSL https://install.python-poetry.org | python3 -
 
-FROM python:3.10-bullseye AS APP1
+FROM python:3.10-bullseye AS APP
 WORKDIR /app
 
 COPY --from=builder /usr/bin/vim /usr/bin/vim
