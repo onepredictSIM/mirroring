@@ -22,3 +22,4 @@ COPY ./app /app
 
 ENTRYPOINT [ "sh" ]
 CMD ["db_init.sh"]
+ 
